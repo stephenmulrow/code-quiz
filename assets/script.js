@@ -155,11 +155,3 @@ function quizOver() {
 createBtn.addEventListener("click", quizStart);
 createBtn.addEventListener("click", setTime);
 
-//need to determine if question was answered right or wrong
-//if right, display "correct"
-//if wrong, display "incorrect, 5 seconds subtracted!"
-//set up timer function
-//style entire quiz
-//end quiz when timer runs out 
-// have a space to save score and write initials
-//store it to the local storage
